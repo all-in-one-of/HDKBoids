@@ -14,6 +14,8 @@ Ability to add multiple forces including:
 - Leader force 
 - Goal force
 
-Boids avoid each other based on Field of View as well.
+Boids avoid each other based on Field of View as well. <br>
 
-
+Requirements:<br>
+SideFX Houdini - https://www.sidefx.com/
+GLM Vec3 Library - https://glm.g-truc.net/0.9.9/index.html
