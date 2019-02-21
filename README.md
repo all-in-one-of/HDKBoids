@@ -10,7 +10,6 @@ Link to original Paper: https://www.red3d.com/cwr/papers/1987/boids.html
 Ability to add multiple forces including:
 - Wind Force
 - Dynamic Gravity Force
-- Attraction to a point force. 
 - Steer Forces. 
 - Leader force 
 - Goal force
