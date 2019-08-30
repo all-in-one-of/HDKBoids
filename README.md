@@ -8,6 +8,7 @@ Link to original Paper: https://www.red3d.com/cwr/papers/1987/boids.html
 <br>
 
 Ability to add multiple forces including:
+
 - Wind Force
 - Dynamic Gravity Force
 - Steer Forces. 
